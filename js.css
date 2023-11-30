@@ -1,0 +1,25 @@
+body {
+    padding: 80px;
+    margin-left: 340px;
+}
+#page-title {
+    color: #03529c;
+}
+#contactlist {
+    margin: 50px 0;
+}
+input {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+    margin: 4px;
+}
+button {
+    padding: 6px 12px;
+    background-color: lightcoral;
+    color: white;
+    margin: 1px;
+}
+#contactlist ul {
+margin: 20px;
+}
